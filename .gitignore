@@ -3,3 +3,5 @@
 *.win
 *.dev
 *.layout
+*.txt
+*.idea
