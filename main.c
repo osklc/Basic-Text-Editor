@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <locale.h>
 #define  MAX_UZUNLUK 1024
 
 
@@ -11,8 +10,6 @@ int main()
 	char data[MAX_UZUNLUK];
 	int i = 1;
 	char menu_choice[MAX_UZUNLUK];
-
-
 	do
 	{
 		if(i == 1) {
